@@ -1,0 +1,19 @@
+{
+  "name": "edit-area",
+  "version": "1.0.0",
+  "description": "",
+  "main": "edit_area_full.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yproximite/edit-area.git"
+  },
+  "author": "Christophe Dolivet",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Yproximite/edit-area/issues"
+  },
+  "homepage": "https://github.com/Yproximite/edit-area#readme"
+}
